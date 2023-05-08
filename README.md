@@ -5,9 +5,76 @@
    
    
    
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    #####Am going to use the basic progaramming languages that many of us are conversant with to come up with this site.
-   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
    
    ##### Tutorilas of the same will be on my site and some demonstration on how to do the coding, you can also feel free to try it out yourself on some trial quiz on my site.
