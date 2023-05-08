@@ -19,6 +19,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Mostly people have the mentality that programming is challenging but am here to challenge you and inspire that there is nothing imposssible as long as you have a positive mindset everything can work out
    
    
