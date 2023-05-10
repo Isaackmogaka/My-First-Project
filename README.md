@@ -1,8 +1,20 @@
 # My-First-Project
-
-![IMG_20230508_105559_373](https://user-images.githubusercontent.com/132668097/236769645-789580e8-8290-44c1-8ebc-b68cf46dee24.jpg)
-
-LICENCE:
+- By Isaac Mogaka
+## Live Link
+- https://isaackmogaka.github.io/My-First-Project/
+## Description
+- This is my personal portfolio project.
+- ![IMG_20230508_105559_373](https://user-images.githubusercontent.com/132668097/236769645-789580e8-8290-44c1-8ebc-b68cf46dee24.jpg)
+## Technologies used 
+- This webpage was developed using:
+   - HTML
+   - CSS
+## Setup instructions
+- 'Run git clone https://isaackmogaka.github.io/My-First-Project/'
+- After cloning, open the project with VS Code and customize to your own     preference
+## Contacts and support
+- For more information or clarification, kindly reach out to isaacmogaka2016@gmail.com
+## LICENCE:
 
 MIT License
 
@@ -24,124 +36,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Mostly people have the mentality that programming is challenging but am here to challenge you and inspire that there is nothing imposssible as long as you have a positive mindset everything can work out
-   
-   
-   
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   ##### Am going to use the basic progaramming languages that many of us are conversant with to come up with this site.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
-   ##### Tutorilas of the same will be on my site and some demonstration on how to do the coding, you can also feel free to try it out yourself on some trial quiz on my site.
+SOFTWARE
